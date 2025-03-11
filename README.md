@@ -8,6 +8,8 @@ Ashish Adhikari1,2,3,  Romaric A. Mouafo-Tchinda1,2,3, Aaron I. Plex Sula1,2,3, 
 2Global Food Systems Institute, University of Florida, Gainesville, FL USA
 3Emerging Pathogens Institute, University of Florida, Gainesville, FL USA
 
+<img width="799" alt="Rice and Smut" src="https://github.com/user-attachments/assets/15bfaf05-8bb2-42ec-8e43-46f15e3f2b2b" />
+
 
 Abstract
 
