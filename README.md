@@ -9,7 +9,6 @@ Ashish Adhikari1,2,3,  Romaric A. Mouafo-Tchinda1,2,3, Aaron I. Plex Sula1,2,3, 
 2Global Food Systems Institute, University of Florida, Gainesville, FL USA
 3Emerging Pathogens Institute, University of Florida, Gainesville, FL USA
 
-<img width="799" alt="Rice and Smut" src="https://github.com/user-attachments/assets/15bfaf05-8bb2-42ec-8e43-46f15e3f2b2b" />
 
 
 Abstract
@@ -18,8 +17,8 @@ R2M is a new open-source computational toolbox, designed to address the critical
 
 Ashish Adhikari, Plant Pathology Department, Gainesville, FL, 32611, Phone: +1 8087243513,
 Email: adhikariashish@ufl.edu
-<img width="799" alt="Rice and Smut" src="https://github.com/user-attachments/assets/15bfaf05-8bb2-42ec-8e43-46f15e3f2b2b" />
 
+<img width="598" alt="Screenshot 2025-04-28 at 4 12 39 PM" src="https://github.com/user-attachments/assets/95ff5e45-9a56-4d9b-9217-6134552f9402" />
 ![fig 4](https://github.com/user-attachments/assets/ba45914a-2c3d-40d6-a078-4d5378a47466)
 
 ![Fig 5](https://github.com/user-attachments/assets/bb13add8-09a1-4014-8fe0-b16e42ac2562)
