@@ -18,7 +18,11 @@ R2M is a new open-source computational toolbox, designed to address the critical
 Ashish Adhikari, Plant Pathology Department, Gainesville, FL, 32611, Phone: +1 8087243513,
 Email: adhikariashish@ufl.edu
 
-<img width="598" alt="Screenshot 2025-04-28 at 4 12 39 PM" src="https://github.com/user-attachments/assets/95ff5e45-9a56-4d9b-9217-6134552f9402" />
+<img width="598" alt="Screenshot 2025-04-28 at 4 12 39 PM" src="https://github.com/user-attachments/assets/6c4872a2-9aaa-4ecb-9d50-d40ae5c7d634" />
+
+
+
+
 ![fig 4](https://github.com/user-attachments/assets/ba45914a-2c3d-40d6-a078-4d5378a47466)
 
 ![Fig 5](https://github.com/user-attachments/assets/bb13add8-09a1-4014-8fe0-b16e42ac2562)
